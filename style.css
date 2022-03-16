@@ -747,6 +747,14 @@ input::placeholder {
         text-align: center;
         margin: 0 0 35px 0;
     }
+    #locationTitle{
+        font-family: Helvetica, sans-serif;
+        font-size: 1.4em;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        margin-bottom: 10px;
+        font-weight: 400;
+    }
 }
 
 /*--------------------------------------------FORM MEDIA QUERY------------------------------*/
