@@ -1,0 +1,800 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: rgb(253, 251, 251);
+}
+
+#overall{
+    padding: 0px;
+}
+header{
+    background-color: rgb(0, 0, 0);
+    color: #000000;
+}
+#header1{
+    background-color: gray;
+    background: transparent url(/pic/Group\ 1832.png) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    background-size: cover;
+    height: 100vh;
+    width: auto;
+    z-index: 1;
+}
+#header2{
+    background-color: gray;
+    background: transparent url(/pic/Group\ 1833.png) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    background-size: cover;
+    height: 100vh;
+    width: auto;
+    z-index: 1;
+}
+#header3{
+    background-color: gray;
+    background: transparent url(/pic/Group\ 1843.png) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    background-size: cover;
+    height: 100vh;
+    width: auto;
+    z-index: 1;
+}
+#header4{
+    background-color: gray;
+    background: transparent url(/pic/Group\ 1819.png) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    background-size: cover;
+    height: 100vh;
+    width: auto;
+    z-index: 1;
+}
+/* 
+#absyzlogo{
+    position: absolute;
+    left:120px;
+    top: 17px;
+} */
+#gridcol1 h3{
+    font-family: 'Secular One', sans-serif;
+    font-size: 3em;
+    text-transform: capitalize;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+#gridcol1 p{
+    font-family:Helvetica, sans-serif;
+    font-size: 1.4em;
+    text-transform: capitalize;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+#heading3{
+    font-size: 23px;
+    letter-spacing: 0px;
+    opacity: 1;
+
+}
+
+#gridrow1{
+    height: 70vh;
+
+}
+
+#cont-1_content-2{
+    background-color: #D9F8FF;
+    color: #060f1f;
+    border-radius: 6px;
+    padding: 20px;
+    min-height: 300px;
+}
+#cont-2_content-2{
+    background-color: #E3FFF8;
+    color: #060f1f;
+    border-radius: 6px;
+    padding: 20px;
+    min-height: 300px;
+}
+#cont-3_content-2{
+    background-color:#FFF7E3;
+    color: #060f1f;
+    border-radius: 6px;
+    padding: 20px;
+    min-height: 300px;
+}
+#cont-4_content-2{
+    background-color: #FEF1F2;
+    color: #060f1f;
+    border-radius: 6px;
+    padding: 20px;
+    min-height: 300px;
+}
+#LetsBeginCont{
+    /* background-color: #26acdc; */
+    margin-top: 40px;
+}
+#bodycont-2{
+    margin-top: 40px;
+}
+#innerDiv{
+    padding: 10px 10px 10px 10px;
+}
+#innerDiv h3{
+    font-family: 'Secular One', sans-serif;
+    color: #060f1f;
+    text-transform: capitalize;
+    opacity: 1;
+    letter-spacing: 0px;
+    font-size: 1.8em;
+    font-weight: 500;
+    /* margin-left: 25px;
+    margin-right: 20px;
+    margin-top: 100px; */
+}
+#innerDiv p{
+    font-family:Helvetica, sans-serif;
+    font-size: 1.2em;
+    color: #969494;
+    opacity: 1;
+    letter-spacing: 0px;
+    margin: 0;
+}
+#MoreBtn1{
+    font-family: 'Secular One', sans-serif;
+    background-color: #26acdc;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 3px;
+    font-size: 20px;
+    letter-spacing: 0px;
+    color: #fff;
+    text-transform:capitalize;
+    font-weight: 500;
+}
+#Innercontent1{
+    background-color: #26ACDC ;
+    padding: 20px;
+}
+#Innercontent2{
+    background-color: #2FC796;
+    padding: 20px;
+}
+#Innercontent3{
+    background-color: #FEDF73;
+    padding: 20px;
+}
+#Innercontent4{
+    background-color: #FA666D ;
+    padding: 20px;
+}
+#innerDiv-2 h2{
+    font-family: 'Secular One', sans-serif;
+    letter-spacing: 0px;
+    color: #030303;
+    text-transform: capitalize;
+    opacity: 1;
+    font-size: 2.5em;
+    padding: 20px;
+    text-align:start;
+    margin: 0;
+}
+#Innercontent1 p , #Innercontent2 p, #Innercontent3 p, #Innercontent4 p  {
+    font-family:Helvetica, sans-serif;
+    font-size: 1.2em;
+    margin: 0;
+}
+
+/*------------------------------------------------------------------2nd Template----------------------------------------------------*/
+
+
+#MoreBtn2{
+    background-color: #2FC796;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 3px;
+    font-size: 20px;
+    letter-spacing: 0px;
+    color: #fff;
+    text-transform:capitalize;
+    font-weight: 500;
+}
+
+
+/*------------------------------------------------------------------3rd Template----------------------------------------------------*/
+#cont-3_content-2{
+   
+    color: #060f1f;
+    border-radius: 6px;
+    padding: 20px;
+    opacity: 1;
+}
+#MoreBtn3{
+    background-color: #FEDF73;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 3px;
+    font-size: 20px;
+    letter-spacing: 0px;
+    color: #fff;
+    text-transform:capitalize;
+    font-weight: 500;
+}
+
+
+/*------------------------------------------------------------------4th Template----------------------------------------------------*/
+
+
+#MoreBtn4{
+    background-color: #FA666D;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 3px;
+    font-size: 20px;
+    letter-spacing: 0px;
+    color: #fff;
+    text-transform:capitalize;
+    font-weight: 500;
+}
+
+
+/*-------------------------------------------Our Team ---------------------------------------------*/
+#OurTeamRow{
+    padding-bottom: 160px;
+}
+#OurTeam{
+    background-image: url(/pic/Group\ 1835.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: auto; */
+}
+#pmName{
+    text-align: left;
+    font-size: 2.5em;
+    font-weight: 600;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+#pmRole{
+    text-align: left;
+    font-size: 1em;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+#outerDiv img{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 10px;
+   
+}
+
+#titleDiv{
+    height: 35vh;
+   
+}
+#titleDiv h2{
+    margin-top: 60px;
+    font-size: 3em;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+    font-weight: 700;
+}
+/*------------------------------------------------------------------Our Clients-------------------------------------------------*/
+#footerLogo{
+    margin-top: 80px;
+}
+#OurClients{
+    background:#bcd1e562;  
+    padding-bottom: 100px;
+}
+
+#ClientinnerDiv-1 h3{
+    font-family: 'Secular One', sans-serif;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #000000;
+    padding-top: 70px;
+    font-size: 3em;
+    text-transform: capitalize;
+    opacity: 1;
+    font-weight: 500;
+    margin-bottom: 18px;
+}
+#ClientinnerDiv-2 p{
+    font-family:Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1.8em;
+    letter-spacing: 0px;
+    color: #868686;
+    text-transform: capitalize;
+    opacity: 1;
+    margin: 0;
+}
+
+/*--------------------------------------------------------------------FOOTER-------------------------------------------------------*/
+#footerContent{
+    background-image: url(/pic/Group\ 1830.png);
+    padding: 0;
+}
+
+
+#add-1{
+    font-size: 1.1em;
+    font-weight: 600;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    font-family:Helvetica, sans-serif;
+}
+#add-2{
+    font-size: 1em;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    font-family:Helvetica, sans-serif;
+}
+#locationTitle{
+    font-family: Helvetica, sans-serif;
+    font-size: 1.8em;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+#locAvail{
+    font-family: Helvetica, sans-serif;
+    margin-bottom: 6px;
+    font-size:1.1em;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+#socialIcons{
+    margin-top: 20px;
+}
+#socialIcons img{
+    margin-right: 10px;
+}
+#footerLine{
+    margin-top: 30px;
+}
+#footerLine hr{
+    width: 94%;
+}
+#copyrightsContents p{
+    font-size: 1.1em;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+}
+/*-----------------------------------------------------------------------------FORM-------------------------------------------------------*/
+#formheader{
+    background-image: url(/pic/Group\ 1844@2x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    padding: 0;
+}
+.formcontainer{
+    margin-top: -900px; 
+}
+input[type="text"], textarea {
+    background-color : #F8F8F8; 
+ 
+}
+/* .card-registration{
+    margin-top: 200px;
+} */
+
+/* textarea::placeholder {
+    border: solid 0px; 
+} */
+/* #challenge{
+    font-size: 23px;
+    margin: 0px;
+} */
+/* .formdiv #challenge2{
+    font-size: 23px;
+    text-align: left;
+} */
+
+textarea::placeholder {
+    letter-spacing: 0px;
+    color: #606060;
+    text-transform: capitalize;
+    opacity: 1;
+    font-family:Helvetica, sans-serif;
+    font-size: 1em;
+} 
+
+input::placeholder {
+    letter-spacing: 0px;
+    color: #606060;
+    text-transform: capitalize;
+    opacity: 1;
+    font-family:Helvetica, sans-serif;
+    font-size: 1em;
+}
+#content{
+    text-align: center;
+}
+#formhead{
+    font-family: 'Secular One', sans-serif;
+    font-size: 2.6em;
+    font-weight: 500;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: capitalize;
+    opacity: 1;
+    margin: 20px 0 10px 0;
+}
+#formpara{
+    font-family:Helvetica, sans-serif;
+    font-size: 1.6em;
+    letter-spacing: 0px;
+    color: #969494;
+    opacity: 1;
+    text-align: center;
+    margin: 0 0 35px 0;
+}
+
+#form-control{
+    width: 100%;
+    padding: 15px;
+    border-radius: 6px;
+    border: solid 0px;
+    background-color : #F8F8F8;
+    
+}
+#text-area{
+    width: 100%;
+    padding: 20px;
+    border-radius: 6px;
+    border: solid 0px;
+    background-color : #F8F8F8;    
+}
+#submitbttn{
+    background-color: #0E1B32;
+    padding: 0;    
+    border-radius: 6px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+    padding: 10px 40px 10px 40px;
+    font-family:Helvetica, sans-serif;
+    font-size: 1.2em;
+}
+/* .personal{
+    margin-top: 40px;
+    font-size: 100px;
+    margin-left: -80px;
+    font-weight: 700;
+    padding: 0px;
+    text-align: center;
+}
+.personal2{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: -30px;
+    color:#969494;
+    font-size: 31px;
+}
+.personal2{
+    color:black;
+} */
+#formcont{
+    background-image: url(/images/top-view-white-honeycomb-pattern-wall-33409727.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    padding: 0;
+}
+/* .row{
+    margin-left: 50px;
+}
+  */
+
+
+
+
+
+
+
+/*-----------------------------------------------------------------------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------------HEADER------------------------------------------------------*/
+/* #navoptions{
+    margin-right: 10%;
+    margin-top: 1%;
+ } */
+ 
+ /* #navoptions a{
+     color: #fff;
+     letter-spacing: 0px;
+     text-transform: capitalize;
+     text-align: left;
+     font-size: 18px;
+     opacity: 1;
+ 
+ }
+ .spantag{
+     padding-left: 20px;
+ }
+ 
+#navBar{
+    padding: 0;
+}
+#nav-link{
+    padding: 0;
+}
+
+#trigger-menu-wrapper{
+    background-color: gray;
+    height:12vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    z-index: 2;
+    background: var(--lightpurple);
+    transition: transform 0.4s;
+    
+} */
+/*    
+.page-header .trigger-menu {
+    display: flex;
+    align-items: center;
+    font-size: 1.3rem;
+    color: var(--white);
+    letter-spacing: .2em;
+} 
+   
+  .page-header .trigger-menu svg {
+    fill: var(--white);
+    margin-right: 8px;
+    transition: transform 0.3s;
+  } 
+   
+  .page-header .menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: none;
+    text-align: center;
+    padding: 15vh 0 5vh;
+    overflow: auto;
+    z-index: 1;
+    background: var(--lightpurple);
+  } 
+  .scroll-down .trigger-menu-wrapper {
+    transform: translate3d(0, -100%, 0);
+  }
+   
+  .scroll-down .lottie-wrapper  {
+    background: var(--darkgray);
+  }
+   
+  .scroll-up .trigger-menu-wrapper {
+    transform: none;
+  }
+   
+  .scroll-up:not(.menu-open) .trigger-menu-wrapper {
+    background: var(--lightpurple);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.35);
+  }  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*------------------------------------------------------------------Media Query----------------------------------------------------*/
+@media (max-width:426px){
+    #OverlayImg{
+        width: 100%;
+        /* transform: rotate(90deg); */
+    }
+}
+@media (min-width:769px){
+    #OverlayImg{
+        margin-left: -70px;
+    }
+}
+@media (max-width:767px){
+    #pmName{
+        text-align: center;
+        font-size: 2.5em;
+        font-weight: 600;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        text-transform: capitalize;
+        opacity: 1;
+    }
+    #pmRole{
+        text-align: center;
+        font-size: 1em;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        text-transform: capitalize;
+        opacity: 1;
+    }
+}
+@media (max-width:426px){
+    #footerIndiaContent{
+        margin-top: 30px;
+    }
+}
+
+@media (min-width:768px) and (max-width: 1023px){
+    #socialIcons img{
+        margin-right: 5px;
+    }
+}
+
+@media (min-width:320px) and (max-width: 767px){
+    #footerIndiaContent{
+        text-align: center;
+    }
+    #locAvail{
+        /* padding: 20px; */
+        margin: 20px;
+    }
+}
+@media (max-width:991px){
+    #navoptions span{
+        display: none;
+    }
+}
+
+@media (max-width:1024px){
+    #gridcol1 h3{
+        font-family: 'Secular One', sans-serif;
+        font-size: 2.2em;
+        text-transform: capitalize;
+        letter-spacing: 0px;
+        opacity: 1;
+    }
+    #gridcol1 p{
+        font-family:Helvetica, sans-serif;
+        font-size: 1.2em;
+        text-transform: capitalize;
+        letter-spacing: 0px;
+        opacity: 1;
+    }
+    #innerDiv-2 h2{
+        font-family: 'Secular One', sans-serif;
+        letter-spacing: 0px;
+        color: #030303;
+        text-transform: capitalize;
+        opacity: 1;
+        font-size: 2em;
+        padding: 20px;
+        text-align:start;
+        margin: 0;
+    }
+
+    #ClientinnerDiv-1 h3{
+        font-family: 'Secular One', sans-serif;
+        text-align: center;
+        letter-spacing: 0px;
+        color: #000000;
+        padding-top: 70px;
+        font-size: 2.2em;
+        text-transform: capitalize;
+        opacity: 1;
+        font-weight: 500;
+        margin-bottom: 18px;
+    }
+    #ClientinnerDiv-2 p{
+        font-family:Helvetica, sans-serif;
+        text-align: center;
+        font-size: 1.5em;
+        letter-spacing: 0px;
+        color: #868686;
+        text-transform: capitalize;
+        opacity: 1;
+        margin: 0;
+    }
+    #formhead{
+        font-family: 'Secular One', sans-serif;
+        font-size: 2em;
+        font-weight: 500;
+        text-align: center;
+        letter-spacing: 0px;
+        color: #000000;
+        text-transform: capitalize;
+        opacity: 1;
+        margin: 20px 0 10px 0;
+    }
+    #formpara{
+        font-family:Helvetica, sans-serif;
+        font-size: 1.5em;
+        letter-spacing: 0px;
+        color: #969494;
+        opacity: 1;
+        text-align: center;
+        margin: 0 0 35px 0;
+    }
+}
+
+/*--------------------------------------------FORM MEDIA QUERY------------------------------*/
+
+/* @media(max-width:426px)
+  {
+
+    body{
+        margin-left: 0%;
+        margin-right: 0%;
+
+    }
+    #formhead{
+        font-size: 24px;
+        font-weight: 700;
+        padding-left: 1px;
+        margin: 0;
+        
+    }
+    #formpara{
+      
+        font-size: 18px;
+        letter-spacing: 0px;
+        color: #969494;
+        opacity: 1;
+        margin: 0;
+        padding: 0;
+      } 
+      
+
+  }
+  @media(max-width:769px)
+  {
+    .row{
+      margin-left: 0px;
+    }
+    .personal2{
+  
+      text-align: center;
+      margin-left: -30px;
+    }
+    .form-control {
+      width: 100%;
+      padding: 0;
+      border-radius: 6px;
+      border: solid 0px;
+      background-color : #F8F8F8; 
+      margin-left: 0px;
+      
+    }
+  } */
